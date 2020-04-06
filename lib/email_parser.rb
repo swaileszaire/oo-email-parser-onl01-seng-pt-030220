@@ -6,7 +6,5 @@
 
 class EmailAddressParser
   
-  attr_accessor :CSV :
-  
-  def initialize()
+  attr_accessor :CSV 
   
