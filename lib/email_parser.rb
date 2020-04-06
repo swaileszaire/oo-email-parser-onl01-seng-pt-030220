@@ -6,5 +6,5 @@
 
 class EmailAddressParser
   
-  attr_accessor :CSVemails
+
   
